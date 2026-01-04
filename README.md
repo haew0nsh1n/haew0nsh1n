@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 📕 &nbsp;**Technical Workshop**
-- 20260109 [Microsoft Ignite 2025 - Microsoft Foundry](https://github.com/haew0nsh1n/ignite25-kor-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry)
+- [Microsoft Ignite 2025 - Microsoft Foundry](https://github.com/haew0nsh1n/ignite25-kor-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry)
