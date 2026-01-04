@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- BLOG-POST-LIST:START -->
+<!--
 📕 &nbsp;**Latest Blog Posts**
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+-->
 <!-- BLOG-POST-LIST:END -->
 
 📕 &nbsp;**Technical Workshop **
