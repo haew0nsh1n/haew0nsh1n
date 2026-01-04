@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- BLOG-POST-LIST:START -->
+📕 &nbsp;**Latest Blog Posts**
+- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+<!-- BLOG-POST-LIST:END -->
+
+📕 &nbsp;**Technical Workshop **
+- [Microsoft Ignite 2025 - Microsoft Foundry](https://github.com/haew0nsh1n/ignite25-kor-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry)
