@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - [Microsoft Ignite 2025 - Microsoft Foundry Hands-on Workshop](https://github.com/haew0nsh1n/ignite25-kor-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry)
 
 📕 &nbsp;**Open Source Project**
+- [Harness Factory](https://github.com/haew0nsh1n/harness-factory)
 - [oh-my-copilot(OMP)](https://github.com/haew0nsh1n/oh-my-copilot)
